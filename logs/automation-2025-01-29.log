@@ -1,0 +1,16 @@
+2025-01-29 10:26:41,243 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
+2025-01-29 10:26:41,313 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
+2025-01-29 10:26:50,717 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Starting TC002_logintest*****
+2025-01-29 10:26:53,002 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Completed TC002_logintest*****
+2025-01-29 10:48:45,885 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
+2025-01-29 10:48:47,438 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
+2025-01-29 10:48:48,986 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
+2025-01-29 10:48:49,035 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
+2025-01-29 10:48:58,565 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Starting TC002_logintest*****
+2025-01-29 10:49:01,301 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Completed TC002_logintest*****
+2025-01-29 10:54:00,617 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
+2025-01-29 10:54:02,176 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
+2025-01-29 10:54:04,182 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
+2025-01-29 10:54:04,241 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
+2025-01-29 10:54:13,859 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Starting TC002_logintest*****
+2025-01-29 10:54:16,755 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Completed TC002_logintest*****

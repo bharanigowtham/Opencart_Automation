@@ -1,0 +1,15 @@
+2025-01-28 20:31:16,818 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
+2025-01-28 20:31:17,435 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
+2025-01-28 20:31:19,129 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
+2025-01-28 20:31:19,209 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
+2025-01-28 20:31:27,885 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:31:30,214 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Completed TC003_Login Data driven test **********
+2025-01-28 20:31:30,221 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:31:38,151 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:31:38,197 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:31:38,241 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:31:38,297 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-28 20:33:14,205 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
+2025-01-28 20:33:14,758 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
+2025-01-28 20:33:16,321 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
+2025-01-28 20:33:16,391 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****

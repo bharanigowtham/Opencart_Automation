@@ -1,0 +1,15 @@
+2025-01-27 20:14:15,930 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
+2025-01-27 20:14:26,015 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Starting TC002_logintest*****
+2025-01-27 20:14:28,658 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Completed TC002_logintest*****
+2025-01-27 20:14:40,421 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:14:43,686 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Completed TC003_Login Data driven test **********
+2025-01-27 20:14:43,699 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:14:56,432 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:15:08,311 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Completed TC003_Login Data driven test **********
+2025-01-27 20:15:08,311 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:15:11,274 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:15:23,499 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Completed TC003_Login Data driven test **********
+2025-01-27 20:15:23,499 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Starting TC003_Login Data driven test **********
+2025-01-27 20:15:35,020 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC003_LogintestDDT - *********Completed TC003_Login Data driven test **********
+2025-01-27 20:47:54,543 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
+2025-01-27 20:47:55,241 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
