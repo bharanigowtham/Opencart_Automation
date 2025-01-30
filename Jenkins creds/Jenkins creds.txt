@@ -1,0 +1,5 @@
+Jenkins password: 6514d65253584dd2ab3d4ee17f996ceb
+
+Jenkins local url: http://localhost:8080/
+
+Jenkins all creds: admin
