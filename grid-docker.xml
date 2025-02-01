@@ -7,7 +7,7 @@
 	<listener class-name="oc.Utilities.ExtentReportManager"></listener>
 </listeners>
 
-
+<!--
 	  <test thread-count="5" name="Linux chrome test">
     <parameter name="os" value="linux"></parameter>
     <parameter name="browser" value="chrome"></parameter>
@@ -17,7 +17,7 @@
       <class name="oc.Testcases.TC002_Logintest"/> 
     </classes>
     
-  </test>  
+  </test>  -->
   
   
   <test thread-count="5" name="Linux edge test">
@@ -27,7 +27,7 @@
     <classes>
       <class name="oc.Testcases.TC001_Accountcreationtest"/> 
       <class name="oc.Testcases.TC002_Logintest"/> 
-      <!-- <class name="oc.Testcases.TC003_LogintestDDT"/>  -->
+      <class name="oc.Testcases.TC003_LogintestDDT"/>  
     </classes>
     
   </test> 

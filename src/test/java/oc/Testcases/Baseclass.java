@@ -21,6 +21,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
@@ -111,7 +112,8 @@ public class Baseclass {
 		driver.manage().window().maximize();
 		Thread.sleep(3000);
 	}
-
+	
+	
 	@AfterClass(groups= {"Sanity", "Regression", "Master", "Datadriven"})
 	public void teardown() throws InterruptedException {
 		Thread.sleep(2000);

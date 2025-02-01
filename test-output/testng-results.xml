@@ -2,22 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-29T13:48:55 MYT" name="Master Suite" finished-at="2025-01-29T13:49:20 MYT" duration-ms="25343">
+  <suite started-at="2025-02-01T15:04:16 MYT" name="Master Suite" finished-at="2025-02-01T15:04:43 MYT" duration-ms="27765">
     <groups>
-      <group name="Master">
-        <method signature="TC001_Accountcreationtest.TC001_validateaccountcreationtest()[pri:0, instance:oc.Testcases.TC001_Accountcreationtest@71d44a3]" name="TC001_validateaccountcreationtest" class="oc.Testcases.TC001_Accountcreationtest"/>
-        <method signature="TC002_Logintest.TC002_logintest()[pri:0, instance:oc.Testcases.TC002_Logintest@41d477ed]" name="TC002_logintest" class="oc.Testcases.TC002_Logintest"/>
-      </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC002_Logintest.TC002_logintest()[pri:0, instance:oc.Testcases.TC002_Logintest@41d477ed]" name="TC002_logintest" class="oc.Testcases.TC002_Logintest"/>
-      </group> <!-- Sanity -->
-      <group name="Regression">
-        <method signature="TC001_Accountcreationtest.TC001_validateaccountcreationtest()[pri:0, instance:oc.Testcases.TC001_Accountcreationtest@71d44a3]" name="TC001_validateaccountcreationtest" class="oc.Testcases.TC001_Accountcreationtest"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-01-29T13:48:55 MYT" name="Test" finished-at="2025-01-29T13:49:20 MYT" duration-ms="25343">
-      <class name="oc.Testcases.TC002_Logintest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:oc.Testcases.TC002_Logintest@41d477ed]" started-at="2025-01-29T13:49:09 MYT" name="setup" finished-at="2025-01-29T13:49:14 MYT" duration-ms="4808" status="PASS">
+    <test started-at="2025-02-01T15:04:16 MYT" name="Test" finished-at="2025-02-01T15:04:43 MYT" duration-ms="27765">
+      <class name="oc.Testcases.TC005_Validateorderhistory">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:oc.Testcases.TC005_Validateorderhistory@41d477ed]" started-at="2025-02-01T15:04:31 MYT" name="setup" finished-at="2025-02-01T15:04:36 MYT" duration-ms="5689" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="TC002_logintest()[pri:0, instance:oc.Testcases.TC002_Logintest@41d477ed]" started-at="2025-01-29T13:49:14 MYT" name="TC002_logintest" finished-at="2025-01-29T13:49:16 MYT" duration-ms="2004" status="PASS">
+        <test-method signature="TC005Validateorderhistory()[pri:0, instance:oc.Testcases.TC005_Validateorderhistory@41d477ed]" started-at="2025-02-01T15:04:36 MYT" name="TC005Validateorderhistory" finished-at="2025-02-01T15:04:39 MYT" duration-ms="3004" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC002_logintest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:oc.Testcases.TC002_Logintest@41d477ed]" started-at="2025-01-29T13:49:16 MYT" name="teardown" finished-at="2025-01-29T13:49:20 MYT" duration-ms="3625" status="PASS">
+        </test-method> <!-- TC005Validateorderhistory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:oc.Testcases.TC005_Validateorderhistory@41d477ed]" started-at="2025-02-01T15:04:39 MYT" name="teardown" finished-at="2025-02-01T15:04:43 MYT" duration-ms="3953" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- oc.Testcases.TC002_Logintest -->
-      <class name="oc.Testcases.TC001_Accountcreationtest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:oc.Testcases.TC001_Accountcreationtest@71d44a3]" started-at="2025-01-29T13:48:55 MYT" name="setup" finished-at="2025-01-29T13:49:03 MYT" duration-ms="8055" status="PASS">
+      </class> <!-- oc.Testcases.TC005_Validateorderhistory -->
+      <class name="oc.Testcases.TC004_Editaccountinfo">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:oc.Testcases.TC004_Editaccountinfo@71d44a3]" started-at="2025-02-01T15:04:16 MYT" name="setup" finished-at="2025-02-01T15:04:23 MYT" duration-ms="6612" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,15 +49,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="TC001_validateaccountcreationtest()[pri:0, instance:oc.Testcases.TC001_Accountcreationtest@71d44a3]" started-at="2025-01-29T13:49:03 MYT" name="TC001_validateaccountcreationtest" finished-at="2025-01-29T13:49:06 MYT" duration-ms="2899" status="PASS">
+        <test-method signature="TC004_editaccountinfo_telephone()[pri:0, instance:oc.Testcases.TC004_Editaccountinfo@71d44a3]" started-at="2025-02-01T15:04:23 MYT" name="TC004_editaccountinfo_telephone" finished-at="2025-02-01T15:04:27 MYT" duration-ms="4134" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC001_validateaccountcreationtest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:oc.Testcases.TC001_Accountcreationtest@71d44a3]" started-at="2025-01-29T13:49:06 MYT" name="teardown" finished-at="2025-01-29T13:49:09 MYT" duration-ms="3657" status="PASS">
+        </test-method> <!-- TC004_editaccountinfo_telephone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:oc.Testcases.TC004_Editaccountinfo@71d44a3]" started-at="2025-02-01T15:04:27 MYT" name="teardown" finished-at="2025-02-01T15:04:31 MYT" duration-ms="3926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- oc.Testcases.TC001_Accountcreationtest -->
+      </class> <!-- oc.Testcases.TC004_Editaccountinfo -->
     </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>

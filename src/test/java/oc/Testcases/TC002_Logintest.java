@@ -28,6 +28,8 @@ public class TC002_Logintest extends Baseclass {
 			Myaccountpage myaccountpage = new Myaccountpage(driver);
 			boolean sts = myaccountpage.myAcclinkdisplaycheck();
 			Assert.assertEquals(sts, true, "Login failed");
+			
+			
 		} 
 		catch (Exception e) {
 			Assert.fail();

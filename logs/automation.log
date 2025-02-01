@@ -1,6 +1,8 @@
-2025-01-29 13:49:03,406 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Starting TC001_validateaccountcreationtest ****
-2025-01-29 13:49:04,631 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Registration menu clicked----
-2025-01-29 13:49:06,241 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ----Success message validation ----
-2025-01-29 13:49:06,274 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC001_Accountcreationtest - ****Completed TC001_validateaccountcreationtest ****
-2025-01-29 13:49:14,755 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Starting TC002_logintest*****
-2025-01-29 13:49:16,758 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC002_Logintest - ****Completed TC002_logintest*****
+2025-02-01 14:48:50,763 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Validation success...
+2025-02-01 14:48:51,228 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Starting TC004_editaccountinfo_telephone 
+2025-02-01 14:54:07,730 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Starting TC004_editaccountinfo_telephone 
+2025-02-01 14:54:11,968 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Validation success...
+2025-02-01 14:54:12,361 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Starting TC004_editaccountinfo_telephone 
+2025-02-01 15:04:23,097 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Starting TC004_editaccountinfo_telephone 
+2025-02-01 15:04:27,202 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC004_Editaccountinfo - Validation success...
+2025-02-01 15:04:36,855 {HH:mm:ss.SSS} [main] INFO  oc.Testcases.TC005_Validateorderhistory - Starting TC004_editaccountinfo_telephone 

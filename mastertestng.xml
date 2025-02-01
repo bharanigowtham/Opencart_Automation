@@ -3,19 +3,23 @@
 
 <suite name="Master Suite">
 
-<listeners>
-	<listener class-name="oc.Utilities.ExtentReportManager"></listener>
-</listeners>
+	<listeners>
+		<listener class-name="oc.Utilities.ExtentReportManager"></listener>
+	</listeners>
 
-  <test thread-count="5" name="Test">
-    <parameter name="os" value="windows"></parameter>
-    <parameter name="browser" value="edge"></parameter>
-    
-    <classes>
-      <class name="oc.Testcases.TC001_Accountcreationtest"/> 
+	<test thread-count="5" name="Test">
+		<parameter name="os" value="windows"></parameter>
+		<parameter name="browser" value="edge"></parameter>
+
+		<classes>
+			<!-- <class name="oc.Testcases.TC001_Accountcreationtest"/> 
       <class name="oc.Testcases.TC002_Logintest"/> 
-       <!--<class name="oc.Testcases.TC003_LogintestDDT"/> --> 
-    </classes>
-    
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+       <class name="oc.Testcases.TC003_LogintestDDT"/> -->
+			<class name="oc.Testcases.TC004_Editaccountinfo" />
+			<class name="oc.Testcases.TC005_Validateorderhistory" />
+		</classes>
+
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
