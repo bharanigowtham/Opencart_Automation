@@ -1,0 +1,4 @@
+
+Go to Jenkins war location.
+ Enter CMD in path bar.
+java-jar jenkins.war --enable-future-java
